@@ -17,5 +17,4 @@
 <p>👉🏻 When submitted, the contact form simply emails all the provided information to whatever email address you setup.</p>
 <br>
 
-<h1>🔗 Link</h1>
-👉🏻 https://emailsender.netlify.app/
+
